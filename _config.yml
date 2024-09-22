@@ -9,7 +9,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: 乾坤未定，你我皆是黑马。闹钟一响，你我皆是牛马  # Change Blog header text
+header_text: 乾坤未定，你我皆是黑马</br>闹钟一响，你我皆是牛马  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
