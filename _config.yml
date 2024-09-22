@@ -12,8 +12,8 @@ favicon: assets/favicon.ico                             # Icon displayed in the 
 header_text: 乾坤未定，你我皆是黑马</br>闹钟一响，你我皆是牛马  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: Copyright 2024>
+  Powered by <a href="https://jekyllrb.com/">A Plan's Blog</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
