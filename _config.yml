@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "http://360696604.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: A Plan's Blog                                    # site's title
@@ -13,7 +13,7 @@ header_text: 乾坤未定，你我皆是黑马</br>闹钟一响，你我皆是�
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: Copyright 2024 
-  Powered by <a href="https://jekyllrb.com/">A Plan's Blog</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  Powered by <a href="http://360696604.github.io/">A Plan's Blog</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
