@@ -4,12 +4,12 @@ url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: A Plan's Blog                                    # site's title
-description: "乾坤未定，你我皆是黑马。闹钟一响，你我皆是牛马"      # used by search engines
+description: "A Plan's 博客"                            # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: 乾坤未定，你我皆是黑马。闹钟一响，你我皆是牛马  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
